@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "231474567630",
+    "project_id": "monitoring-f34b5",
+    "storage_bucket": "monitoring-f34b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231474567630:android:07a996f860687c4f67f39f",
+        "android_client_info": {
+          "package_name": "com.diskominfopsp.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "231474567630-cv3607enouinm9lkdddjvkbk4d808fdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWDkwU1CmyNM9YthUeGf_sn15fkuZYnHM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "231474567630-cv3607enouinm9lkdddjvkbk4d808fdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
